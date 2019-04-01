@@ -10,4 +10,4 @@ Seven Simple Steps to follow…
 06. git remote add origin
 07. git push -f origin master
 
-For Brief explanation check my blog https://fasrin.home.blog/2019/02/26/version-controll/
+For Brief explanation check my blog post https://fasrin.home.blog/2019/02/26/version-controll/
