@@ -1,4 +1,4 @@
-# How To add existing project into GitHub repository
+# How to add existing project into GitHub repository
 
 Seven Simple Steps to follow…
 
